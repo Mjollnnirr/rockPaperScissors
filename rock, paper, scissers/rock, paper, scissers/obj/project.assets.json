@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mamed\\source\\repos\\rock, paper, scissers\\rock, paper, scissers\\rock, paper, scissers.csproj",
+      "projectUniqueName": "C:\\Users\\mamed\\Desktop\\HomeWork\\rockPaperScissors\\rock, paper, scissers\\rock, paper, scissers\\rock, paper, scissers.csproj",
       "projectName": "rock, paper, scissers",
-      "projectPath": "C:\\Users\\mamed\\source\\repos\\rock, paper, scissers\\rock, paper, scissers\\rock, paper, scissers.csproj",
+      "projectPath": "C:\\Users\\mamed\\Desktop\\HomeWork\\rockPaperScissors\\rock, paper, scissers\\rock, paper, scissers\\rock, paper, scissers.csproj",
       "packagesPath": "C:\\Users\\mamed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mamed\\source\\repos\\rock, paper, scissers\\rock, paper, scissers\\obj\\",
+      "outputPath": "C:\\Users\\mamed\\Desktop\\HomeWork\\rockPaperScissors\\rock, paper, scissers\\rock, paper, scissers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

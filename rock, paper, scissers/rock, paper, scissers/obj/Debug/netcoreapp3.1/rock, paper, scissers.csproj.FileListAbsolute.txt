@@ -11,3 +11,16 @@ C:\Users\mamed\source\repos\rock, paper, scissers\rock, paper, scissers\obj\Debu
 C:\Users\mamed\source\repos\rock, paper, scissers\rock, paper, scissers\obj\Debug\netcoreapp3.1\rock, paper, scissers.dll
 C:\Users\mamed\source\repos\rock, paper, scissers\rock, paper, scissers\obj\Debug\netcoreapp3.1\rock, paper, scissers.pdb
 C:\Users\mamed\source\repos\rock, paper, scissers\rock, paper, scissers\obj\Debug\netcoreapp3.1\rock, paper, scissers.genruntimeconfig.cache
+C:\Users\mamed\Desktop\HomeWork\rockPaperScissors\rock, paper, scissers\rock, paper, scissers\bin\Debug\netcoreapp3.1\rock, paper, scissers.exe
+C:\Users\mamed\Desktop\HomeWork\rockPaperScissors\rock, paper, scissers\rock, paper, scissers\bin\Debug\netcoreapp3.1\rock, paper, scissers.deps.json
+C:\Users\mamed\Desktop\HomeWork\rockPaperScissors\rock, paper, scissers\rock, paper, scissers\bin\Debug\netcoreapp3.1\rock, paper, scissers.runtimeconfig.json
+C:\Users\mamed\Desktop\HomeWork\rockPaperScissors\rock, paper, scissers\rock, paper, scissers\bin\Debug\netcoreapp3.1\rock, paper, scissers.runtimeconfig.dev.json
+C:\Users\mamed\Desktop\HomeWork\rockPaperScissors\rock, paper, scissers\rock, paper, scissers\bin\Debug\netcoreapp3.1\rock, paper, scissers.dll
+C:\Users\mamed\Desktop\HomeWork\rockPaperScissors\rock, paper, scissers\rock, paper, scissers\bin\Debug\netcoreapp3.1\rock, paper, scissers.pdb
+C:\Users\mamed\Desktop\HomeWork\rockPaperScissors\rock, paper, scissers\rock, paper, scissers\obj\Debug\netcoreapp3.1\rock, paper, scissers.csprojAssemblyReference.cache
+C:\Users\mamed\Desktop\HomeWork\rockPaperScissors\rock, paper, scissers\rock, paper, scissers\obj\Debug\netcoreapp3.1\rock, paper, scissers.AssemblyInfoInputs.cache
+C:\Users\mamed\Desktop\HomeWork\rockPaperScissors\rock, paper, scissers\rock, paper, scissers\obj\Debug\netcoreapp3.1\rock, paper, scissers.AssemblyInfo.cs
+C:\Users\mamed\Desktop\HomeWork\rockPaperScissors\rock, paper, scissers\rock, paper, scissers\obj\Debug\netcoreapp3.1\rock, paper, scissers.csproj.CoreCompileInputs.cache
+C:\Users\mamed\Desktop\HomeWork\rockPaperScissors\rock, paper, scissers\rock, paper, scissers\obj\Debug\netcoreapp3.1\rock, paper, scissers.dll
+C:\Users\mamed\Desktop\HomeWork\rockPaperScissors\rock, paper, scissers\rock, paper, scissers\obj\Debug\netcoreapp3.1\rock, paper, scissers.pdb
+C:\Users\mamed\Desktop\HomeWork\rockPaperScissors\rock, paper, scissers\rock, paper, scissers\obj\Debug\netcoreapp3.1\rock, paper, scissers.genruntimeconfig.cache
