@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "rock, paper, scissers/1.0.0": {
+        "runtime": {
+          "rock, paper, scissers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "rock, paper, scissers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
